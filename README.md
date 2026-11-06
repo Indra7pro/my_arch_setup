@@ -9,8 +9,8 @@ An interactive post-install script for Arch Linux. Pick which parts of the setup
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/Indra7pro/my_arch_setup.git
+cd my_arch_setup
 chmod +x setup-arch.sh
 ./setup-arch.sh
 ```
